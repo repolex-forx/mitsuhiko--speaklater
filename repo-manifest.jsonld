@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mitsuhiko/speaklater/commit/5e137816de91dcc9b9bf81f953460eb8066c3a70",
       "git:hexsha": "5e137816de91dcc9b9bf81f953460eb8066c3a70",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.13"
     },
     {
