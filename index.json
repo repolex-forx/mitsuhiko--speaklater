@@ -1,0 +1,11 @@
+{
+  "org": "mitsuhiko",
+  "repo": "speaklater",
+  "versions": [
+    {
+      "commit": "5e137816de91dcc9b9bf81f953460eb8066c3a70",
+      "tag": "0.13",
+      "parsed_at": "2026-10-19T13:27:46.650662+00:00"
+    }
+  ]
+}
