@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/mitsuhiko/speaklater/commit/5e137816de91dcc9b9bf81f953460eb8066c3a70",
       "git:hexsha": "5e137816de91dcc9b9bf81f953460eb8066c3a70",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.13"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.13",
+      "repolex:parsedAt": "2026-10-19T13:27:46.650226+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mitsuhiko/speaklater/commit/b6b7341f8f594a1417a383cd7ca462a1ac65cac6",
