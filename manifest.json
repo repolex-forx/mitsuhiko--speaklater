@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "mitsuhiko",
+  "repo": "speaklater",
+  "versions": [
+    {
+      "commit": "5e137816de91dcc9b9bf81f953460eb8066c3a70",
+      "parsed_at": "2026-10-19T13:25:27.823508+00:00",
+      "tag": "0.13",
+      "filetree": "filetree/5e137816de91dcc9b9bf81f953460eb8066c3a70.nq.gz",
+      "blobs": [
+        "blob/d67fe2d32dc0dfbdb0085dad5635209d00a2b665.nq.gz",
+        "blob/0501b57a19162665f4b0aa0fe8b7e56ad61a09ee.nq.gz",
+        "blob/65fa51a9988dcc2865ec53f20ebc4e6818517bf5.nq.gz",
+        "blob/67a4dc5dd5440ed57b743f18f84e2d218d7c1ec4.nq.gz",
+        "blob/8d33ab1375899b420984632b6ef57eef8aa99943.nq.gz",
+        "blob/d6fee648919ff436bf05cd37f06f2916b0cbac3b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
